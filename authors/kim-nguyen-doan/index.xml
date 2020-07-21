@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kim Nguyen Doan | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/authors/kim-nguyen-doan/</link>
+      <atom:link href="https://cembio.github.io/authors/kim-nguyen-doan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kim Nguyen Doan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kim Nguyen Doan</title>
+      <link>https://cembio.github.io/authors/kim-nguyen-doan/</link>
+    </image>
+    
+    <item>
+      <title>Mitochondrial Porin Links Protein Biogenesis to Metabolism</title>
+      <link>https://cembio.github.io/publication/doan-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/doan-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Frezza | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/authors/christian-frezza/</link>
+      <atom:link href="https://cembio.github.io/authors/christian-frezza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Frezza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Thu, 01 Feb 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Christian Frezza</title>
+      <link>https://cembio.github.io/authors/christian-frezza/</link>
+    </image>
+    
+    <item>
+      <title>Organelle Isolation: Functional Mitochondria from Mouse Liver, Muscle and Cultured Filroblasts</title>
+      <link>https://cembio.github.io/publication/frezza-2007/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/frezza-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

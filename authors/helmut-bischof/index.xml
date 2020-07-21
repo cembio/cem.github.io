@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helmut Bischof | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/authors/helmut-bischof/</link>
+      <atom:link href="https://cembio.github.io/authors/helmut-bischof/index.xml" rel="self" type="application/rss+xml" />
+    <description>Helmut Bischof</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Helmut Bischof</title>
+      <link>https://cembio.github.io/authors/helmut-bischof/</link>
+    </image>
+    
+    <item>
+      <title>MICU1 Controls Cristae Junction and Spatially Anchors Mitochondrial Ca2&#43; Uniporter Complex</title>
+      <link>https://cembio.github.io/publication/gottschalk-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/gottschalk-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

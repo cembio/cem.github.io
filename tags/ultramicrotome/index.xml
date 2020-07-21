@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ultramicrotome | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/tags/ultramicrotome/</link>
+      <atom:link href="https://cembio.github.io/tags/ultramicrotome/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ultramicrotome</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ultramicrotome</title>
+      <link>https://cembio.github.io/tags/ultramicrotome/</link>
+    </image>
+    
+    <item>
+      <title>Leica UC6</title>
+      <link>https://cembio.github.io/equipment/leica-uc6-/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/equipment/leica-uc6-/</guid>
+      <description>&lt;p&gt;The ultramicrotome UC6 is equipped with digital interface for custom control. This ultramicrotome is designed for cutting ultra-thin sections (&amp;lt;100nm) of sample embedded in resin, using glass or diamond (Diatome, Switzerland) knives.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

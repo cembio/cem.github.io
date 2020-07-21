@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.D. Wei | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/authors/m.d.-wei/</link>
+      <atom:link href="https://cembio.github.io/authors/m.d.-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.D. Wei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Fri, 01 Dec 1989 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M.D. Wei</title>
+      <link>https://cembio.github.io/authors/m.d.-wei/</link>
+    </image>
+    
+    <item>
+      <title>Simultaneous Imaging of Cell and Mitochondrial Membrane Potentials</title>
+      <link>https://cembio.github.io/publication/farkas-1989/</link>
+      <pubDate>Fri, 01 Dec 1989 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/farkas-1989/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Membrane Potential Can Be Determined in Individual Cells from the Nernstian Distribution of Cationic Dyes</title>
+      <link>https://cembio.github.io/publication/ehrenberg-1988/</link>
+      <pubDate>Sun, 01 May 1988 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/ehrenberg-1988/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

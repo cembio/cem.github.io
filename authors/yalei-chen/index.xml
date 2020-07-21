@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yalei Chen | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/authors/yalei-chen/</link>
+      <atom:link href="https://cembio.github.io/authors/yalei-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yalei Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yalei Chen</title>
+      <link>https://cembio.github.io/authors/yalei-chen/</link>
+    </image>
+    
+    <item>
+      <title>Molecular Counting by Photobleaching in Protein Complexes with Many Subunits: Best Practices and Application to the Cellulose Synthesis Complex</title>
+      <link>https://cembio.github.io/publication/chen-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/chen-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna-Lena Cost | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/authors/anna-lena-cost/</link>
+      <atom:link href="https://cembio.github.io/authors/anna-lena-cost/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna-Lena Cost</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Anna-Lena Cost</title>
+      <link>https://cembio.github.io/authors/anna-lena-cost/</link>
+    </image>
+    
+    <item>
+      <title>The Piconewton Force Awakens: Quantifying Mechanics in Cells</title>
+      <link>https://cembio.github.io/publication/freikamp-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/freikamp-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

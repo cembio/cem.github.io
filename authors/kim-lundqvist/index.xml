@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kim Lundqvist | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/authors/kim-lundqvist/</link>
+      <atom:link href="https://cembio.github.io/authors/kim-lundqvist/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kim Lundqvist</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kim Lundqvist</title>
+      <link>https://cembio.github.io/authors/kim-lundqvist/</link>
+    </image>
+    
+    <item>
+      <title>Global Differences in Specific Histone H3 Methylation Are Associated with Overweight and Type 2 Diabetes</title>
+      <link>https://cembio.github.io/publication/jufvas-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/jufvas-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

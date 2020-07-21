@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/sr/authors/admin/</link>
+      <atom:link href="https://cembio.github.io/sr/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Center for Electron Microscopy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Center for Electron Microscopy</title>
+      <link>https://cembio.github.io/sr/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>

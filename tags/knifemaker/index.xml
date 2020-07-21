@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knifemaker | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/tags/knifemaker/</link>
+      <atom:link href="https://cembio.github.io/tags/knifemaker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Knifemaker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Knifemaker</title>
+      <link>https://cembio.github.io/tags/knifemaker/</link>
+    </image>
+    
+    <item>
+      <title>Leica EM KMR</title>
+      <link>https://cembio.github.io/equipment/leica-em-kmr/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/equipment/leica-em-kmr/</guid>
+      <description>&lt;p&gt;The Leica EM KMR glass knife maker produces 45˚ glass knives from 6.4 and 8 mm thick glass.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

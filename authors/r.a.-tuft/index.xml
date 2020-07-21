@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R.A. Tuft | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/authors/r.a.-tuft/</link>
+      <atom:link href="https://cembio.github.io/authors/r.a.-tuft/index.xml" rel="self" type="application/rss+xml" />
+    <description>R.A. Tuft</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Wed, 01 Dec 1993 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>R.A. Tuft</title>
+      <link>https://cembio.github.io/authors/r.a.-tuft/</link>
+    </image>
+    
+    <item>
+      <title>Imaging in Five Dimensions: Time-Dependent Membrane Potentials in Individual Mitochondria</title>
+      <link>https://cembio.github.io/publication/loew-1993/</link>
+      <pubDate>Wed, 01 Dec 1993 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/loew-1993/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

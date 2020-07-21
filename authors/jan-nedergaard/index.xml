@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Nedergaard | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/authors/jan-nedergaard/</link>
+      <atom:link href="https://cembio.github.io/authors/jan-nedergaard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan Nedergaard</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jan Nedergaard</title>
+      <link>https://cembio.github.io/authors/jan-nedergaard/</link>
+    </image>
+    
+    <item>
+      <title>Intact Innervation Is Essential for Diet-Induced Recruitment of Brown Adipose Tissue</title>
+      <link>https://cembio.github.io/publication/fischer-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/fischer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hormone-Induced Mitochondrial Fission Is Utilized by Brown Adipocytes as an Amplification Pathway for Energy Expenditure</title>
+      <link>https://cembio.github.io/publication/wikstrom-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/wikstrom-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UCP1 in Brite/Beige Adipose Tissue Mitochondria Is Functionally Thermogenic</title>
+      <link>https://cembio.github.io/publication/shabalina-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/shabalina-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermogenically Competent Nonadrenergic Recruitment in Brown Preadipocytes by a PPARγ Agonist</title>
+      <link>https://cembio.github.io/publication/petrovic-2008/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/petrovic-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

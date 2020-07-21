@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/publication_types/4/</link>
+      <atom:link href="https://cembio.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>https://cembio.github.io/publication_types/4/</link>
+    </image>
+    
+    <item>
+      <title>Mitochondria Tether to Focal Adhesions during Cell Migration and Regulate Their Size</title>
+      <link>https://cembio.github.io/publication/daniel-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/daniel-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MICU1 Regulates Mitochondrial Cristae Structure and Function Independent of the Mitochondrial Calcium Uniporter Channel</title>
+      <link>https://cembio.github.io/publication/tomar-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/tomar-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Cell Map of the Human Ovarian Cortex</title>
+      <link>https://cembio.github.io/publication/wagner-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/wagner-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MINFLUX Nanoscopy Delivers Multicolor Nanometer 3D-Resolution in (Living) Cells</title>
+      <link>https://cembio.github.io/publication/gwosch-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/gwosch-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pipeline for Multidimensional Confocal Analysis of Mitochondrial Morphology, Function and Dynamics in Pancreatic β-Cells</title>
+      <link>https://cembio.github.io/publication/chaudhry-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/chaudhry-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLIJ: Enabling GPU-Accelerated Image Processing in Fiji</title>
+      <link>https://cembio.github.io/publication/haase-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/haase-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Cell Signalling Analysis of Heterocellular Organoids</title>
+      <link>https://cembio.github.io/publication/qin-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/qin-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristae Undergo Continuous Cycles of Fusion and Fission in a MICOS-Dependent Manner</title>
+      <link>https://cembio.github.io/publication/kondadi-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/kondadi-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Membrane Bending Energy and Tension Govern Mitochondrial Division</title>
+      <link>https://cembio.github.io/publication/mahecic-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/mahecic-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

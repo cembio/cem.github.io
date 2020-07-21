@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marta G. Bogaczyńska | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/authors/marta-g.-bogaczynska/</link>
+      <atom:link href="https://cembio.github.io/authors/marta-g.-bogaczynska/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marta G. Bogaczyńska</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Marta G. Bogaczyńska</title>
+      <link>https://cembio.github.io/authors/marta-g.-bogaczynska/</link>
+    </image>
+    
+    <item>
+      <title>Mitochondrial Patch Clamp of Beige Adipocytes Reveals UCP1-Positive and UCP1-Negative Cells Both Exhibiting Futile Creatine Cycling</title>
+      <link>https://cembio.github.io/publication/bertholet-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/bertholet-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

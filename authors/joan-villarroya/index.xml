@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joan Villarroya | Center for Electron Microscopy</title>
+    <link>https://cembio.github.io/authors/joan-villarroya/</link>
+      <atom:link href="https://cembio.github.io/authors/joan-villarroya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joan Villarroya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Center for Electron Microscopy, 2020.</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cembio.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Joan Villarroya</title>
+      <link>https://cembio.github.io/authors/joan-villarroya/</link>
+    </image>
+    
+    <item>
+      <title>Brown Adipose Tissue as a Secretory Organ</title>
+      <link>https://cembio.github.io/publication/villarroya-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cembio.github.io/publication/villarroya-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
